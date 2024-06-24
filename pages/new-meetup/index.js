@@ -1,4 +1,5 @@
 import NewMeetupForm from '../../components/meetups/NewMeetupForm.js';
+
 export default function NewMeetupPage(){
     function addMeetupHandler(enteredMeetupData){
         console.log(enteredMeetupData);
